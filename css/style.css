@@ -8205,7 +8205,7 @@ h1, h2, h3, h4, h5,
   border: none; }
 
 .wrapper {
-  z-index: 2;
+  z-index: 4;
   
 position: absolute;
 top: -19.8px;

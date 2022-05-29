@@ -12,10 +12,14 @@ body{
 
 
 }
+.side-bar-icons{
+    color: #FE8200;
+}
 
 .logo-row{
     margin-left: 8rem;
 }
+
 .search-input{
     border-radius: 1.8rem;
     background-color:rgb(51,51,51);
@@ -333,4 +337,22 @@ main{
 }
 .cards{
     border: none;
+}
+.all-trending-btn{
+    display: flex;
+    flex: auto;
+    justify-content: center;
+    margin-top: -8rem;
+}
+.trending-btn:link,
+.trending-btn:visited{
+    background-color: #ffa200;
+    padding: 1.5rem 5rem;
+    border-radius: 10rem;
+    text-align: center;
+    color: #fff;
+
+}
+.trending-btn:hover{
+    background-color: #FE8900;
 }
