@@ -8212,8 +8212,8 @@ top: -19.8px;
  }
 
 #sidebar {
-  min-width: 270px;
-  max-width: 270px;
+  min-width: 230px;
+  max-width: 230px;
   background: rgba(22,22,22);
   color: #fff;
   -webkit-transition: all 0.3s;
@@ -8226,7 +8226,7 @@ top: -19.8px;
     margin-left: -270px; }
     /* where i customize the sidebar */
     #sidebar.active .custom-menu {
-      margin-right: -80.1px; }
+      margin-right: -110px; }
   #sidebar h1 {
     margin-bottom: 20px;
     font-weight: 700; }
