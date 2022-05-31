@@ -351,6 +351,7 @@ main{
 }
 .cards{
     border: none;
+    cursor: pointer;
 }
 .all-trending-btn{
     display: flex;
@@ -376,4 +377,34 @@ main{
 }
 .cont3{
     margin-top: 7rem;
+}
+.more-btn{
+    margin-top: 7rem;
+}
+.holder{
+
+
+}
+.trap-money{
+    background-image: url(./images/hp-trap-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 2rem;
+    border-radius: 1rem;
+    margin-top: 3rem;
+    text-align: center;
+    color: #fff;
+}
+.world{
+    background-image: url(./images/hp-world-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 2.5rem;
+    border-radius: 1rem;
+    margin-top: 3rem;
+    color: #fff;
+
+}
+.world-btn{
+    justify-content: flex-start;
 }
